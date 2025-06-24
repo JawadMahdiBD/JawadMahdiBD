@@ -140,4 +140,5 @@ Final-year Computer Science student (CGPA: 3.6) with 3+ years of offensive secur
   <img src="https://img.shields.io/badge/-OFFENSIVE_SECURITY-000000?style=for-the-badge&logo=GNU-Privacy-Guard&logoColor=white" />
 </div>
 
+
 Let's collaborate on cybersecurity initiatives! ✨
