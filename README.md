@@ -130,6 +130,14 @@ Final-year Computer Science student (CGPA: 3.6) with 3+ years of offensive secur
 - 🌍 Open to: Malaysia (Onsite) or Remote (Global) roles
 
 ## Core Interests
-`Penetration Testing` `Red Teaming` `AppSec` `Vulnerability Research` `Security Tool Development` `Offensive Cyber Security`
+
+<div>
+  <img src="https://img.shields.io/badge/-PENETRATION_TESTING-FF6D00?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RED_TEAMING-DD0031?style=for-the-badge&logo=Red-Hat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-APPSEC-009688?style=for-the-badge&logo=OWASP&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VULNERABILITY_RESEARCH-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SECURITY_TOOLS-005571?style=for-the-badge&logo=GitHub-Actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OFFENSIVE_SECURITY-000000?style=for-the-badge&logo=GNU-Privacy-Guard&logoColor=white" />
+</div>
 
 Let's collaborate on cybersecurity initiatives! ✨
