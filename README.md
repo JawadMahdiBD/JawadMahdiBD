@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/jawad47"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jawadmahdibd@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-Offensive Security Specialist | Red Teamer | Pentester | 8x CTF Champion | Recognized by Pentagon & Fortune 500s
+Offensive Security Specialist | Red Teamer | Pentester | 4x CTF Champion | Recognized by Pentagon & Fortune 500s
 
 ## Objective
 Final-year Computer Science student (CGPA: 3.6) with 3+ years of offensive security experience. Passionate about ethical hacking, vulnerability assessment, and red team operations. Seeking opportunities to apply my penetration testing skills at professional level.
