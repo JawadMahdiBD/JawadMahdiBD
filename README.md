@@ -12,8 +12,8 @@ Final-year Computer Science student (CGPA: 3.6) with 3+ years of offensive secur
 | Skill Area                     | Associated Projects |
 |--------------------------------|---------------------|
 | **Penetration Testing**        | [Ghostcat Botnet Monitoring](https://ghostcat.cloud) - Django-based threat intelligence platform |
-| **Vulnerability Assessment**   | [Open Source Vulnerability Scanner](https://drive.google.com/file/d/1kFCmyIh2FcCpYBzbMCegVaHVPMCz9T1y/view) - Custom Bash tool for automated security scans |
-| **Credential Leak Detection**  | [Mass Domain Leak Checker](https://drive.google.com/file/d/1sGifVq_Ezk9StyJQpYQiIET5wq4qxYwR/view) - Python tool leveraging Ghostcat API for subdomain breach monitoring |
+| **Vulnerability Assessment**   | [Open Source Vulnerability Scanner](https://github.com/JawadMahdiBD/scripts/blob/main/Open_Source_Vuln_Scanner.sh) - Custom Bash tool for automated security scans |
+| **Credential Leak Detection**  | [Mass Domain Leak Checker](https://github.com/JawadMahdiBD/scripts/blob/main/Ghostcatscanner.py) - Python tool leveraging Ghostcat API for subdomain breach monitoring |
 
 
 ## Tools & Technologies
