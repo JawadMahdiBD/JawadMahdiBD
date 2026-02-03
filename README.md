@@ -5,7 +5,7 @@
 Offensive Cyber Security Specialist | Red Teamer | Pentester | 4x CTF Champion | Recognized by Pentagon & Fortune 500s
 
 ## Objective
-Final-year Computer Science student (CGPA: 3.6) with 3+ years of offensive security experience. Passionate about ethical hacking, vulnerability assessment, and red team operations. Seeking opportunities to apply my penetration testing skills at professional level.
+Graduate Computer Science student (CGPA: 3.69) with 3+ years of offensive Cyber Security experience. Passionate about ethical hacking, vulnerability assessment, and red team operations. Seeking opportunities to apply my penetration testing skills at professional level.
 
 ## Skills & Projects
 
