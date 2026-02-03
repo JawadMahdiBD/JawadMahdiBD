@@ -122,7 +122,7 @@ Graduate Computer Science student (CGPA: 3.69) with 3+ years of offensive Cyber 
 💰 **Bug Bounty Awards** from Pentagon, Apple, DELL, Coca-Cola, Comcast, Cambridge University, OLX, Paysafe, Powerschool and many more
 
 ## Currently
-- 🎓 Completing Bachelor's in Computer Science at Taylor's University/University of Bristol (Expected Feb 2026)
+- 🎓 Completed Bachelor's in Computer Science at Taylor's University/University of Bristol (Feb 2026)
 - 🔍 Available for:
   - Part-time remote engagements (6-8 hrs/day Mon-Thu)
   - Freelance penetration testing
