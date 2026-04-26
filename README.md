@@ -99,16 +99,6 @@ Graduate Computer Science student (CGPA: 3.69) with 3+ years of offensive Cyber 
 
 ## 🏆 Full Achievement List
 
-### CTF Championships
-🥇 **SUST SWE TECHNOVENT CTF 2023** - Champion  
-🥇 **National CyberDrill 2022** - Champion  
-🥇 **Inter-University Cyber Drill 2021** - Champion (Team Zero Byte)  
-🥇 **Cyber Security Challenge 2018** - Champion  
-🥈 **CyberSummit 2021 Hackathon** - 1st Runner Up  
-🥈 **National Cyber Drill 2020** - 1st Runner Up (Team The Infinity Bytes)  
-🥈 **Cyber Security Challenge 2019** - 1st Runner Up  
-🥈 **JU CTF 2019** - 1st Runner Up  
-
 ### Notable Rankings
 🏅 **Cyber Apocalypse CTF 2021** - Ranked 94th/4500+ teams  
 🏅 **Curtin Malaysia CTF 2023** - Ranked 13th in Malaysia (Solo)  
