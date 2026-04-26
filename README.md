@@ -100,7 +100,6 @@ Graduate Computer Science student (CGPA: 3.69) with 3+ years of offensive Cyber 
 ## 🏆 Full Achievement List
 
 ### Notable Rankings
-🏅 **Cyber Apocalypse CTF 2021** - Ranked 94th/4500+ teams  
 🏅 **Curtin Malaysia CTF 2023** - Ranked 13th in Malaysia (Solo)  
 
 ### Academic Honors
