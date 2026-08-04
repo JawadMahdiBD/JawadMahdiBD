@@ -1,6 +1,7 @@
 # Hello, I'm Jawad Mahdi 👋
 <a href="https://linkedin.com/in/jawad47"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jawadmahdibd@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://jawadmahdi.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0072b1?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>
 
 Offensive Cyber Security Specialist | Red Teamer | Pentester | 4x CTF Champion | Recognized by Pentagon & Fortune 500s
 
