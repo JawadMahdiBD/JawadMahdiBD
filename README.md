@@ -12,11 +12,11 @@
 
 
 <p align="center">
-  <a href="https://jawadmahdi.vercel.app/">Portfolio</a> ·
+  <a href="https://jawadmahdi.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/jawad47/">LinkedIn</a> ·
-  <a href="https://jawadmahdi.vercel.app/#contact">Message</a> ·
+  <a href="https://jawadmahdi.com/#contact">Message</a> ·
   <a href="https://medium.com/@jawadmahdi/">Medium</a> ·
-  <a href="https://jawadmahdi.vercel.app/assets/resume/JawadMahdi_Resume2026.pdf">Resume</a>
+  <a href="https://jawadmahdi.com/assets/resume/JawadMahdi_Resume2026.pdf">Resume</a>
 </p>
 
 
@@ -78,7 +78,7 @@ Local-first, case-oriented OSINT workspace developed as an extension to an Elect
 `TypeScript` `React` `Electron` `Node.js` `MCP` `Local-First` `OSINT` `AI Integration`
 
 
-[View portfolio details →](https://jawadmahdi.vercel.app/#projects)
+[View portfolio details →](https://jawadmahdi.com/#projects)
 
 
 ### [Nuclei-Forge — Full-Stack Security Scanning Platform](https://github.com/JawadMahdiBD/Nuclei-Forge)
@@ -108,15 +108,15 @@ Open-source network-scanning and infrastructure-intelligence platform with asset
 ### More Security Projects
 
 
-- **[Credential Breach Monitoring System](https://jawadmahdi.vercel.app/#projects)** — Full-stack domain and subdomain credential-leak monitoring with breach APIs, Elasticsearch analysis, and automated reporting.  
+- **[Credential Breach Monitoring System](https://jawadmahdi.com/#projects)** — Full-stack domain and subdomain credential-leak monitoring with breach APIs, Elasticsearch analysis, and automated reporting.
   `Django` `PostgreSQL` `Elasticsearch` `Python` `REST API`
 
 
-- **[Simulated Network Penetration Test](https://jawadmahdi.vercel.app/#projects)** — Enterprise lab assessment covering reconnaissance, exploitation, privilege escalation, vulnerability assessment, and CVSS-scored reporting.  
+- **[Simulated Network Penetration Test](https://jawadmahdi.com/#projects)** — Enterprise lab assessment covering reconnaissance, exploitation, privilege escalation, vulnerability assessment, and CVSS-scored reporting.
   `VMware` `Kali Linux` `Metasploit` `Nmap` `OpenVAS` `EternalBlue`
 
 
-- **[TRM Framework Audit](https://jawadmahdi.vercel.app/#projects)** — Governance, technology-risk, operational-control, third-party security, and supply-chain assessment mapped to the Malaysia TRM framework and NIST CSF.  
+- **[TRM Framework Audit](https://jawadmahdi.com/#projects)** — Governance, technology-risk, operational-control, third-party security, and supply-chain assessment mapped to the Malaysia TRM framework and NIST CSF.
   `NIST CSF` `GRC` `Compliance` `Risk Assessment` `Vendor Security`
 
 
@@ -124,11 +124,11 @@ Open-source network-scanning and infrastructure-intelligence platform with asset
   `Python` `Bash` `C++` `Gemini AI` `Nuclei` `Katana` `OSINT`
 
 
-- **[Confidential Penetration Testing Projects](https://jawadmahdi.vercel.app/#projects)** — NDA-protected enterprise and government engagements spanning web applications, APIs, networks, and cloud environments.  
+- **[Confidential Penetration Testing Projects](https://jawadmahdi.com/#projects)** — NDA-protected enterprise and government engagements spanning web applications, APIs, networks, and cloud environments.
   `Burp Suite` `Metasploit` `API Security` `Network Security`
 
 
-[View the complete project showcase →](https://jawadmahdi.vercel.app/#projects)
+[View the complete project showcase →](https://jawadmahdi.com/#projects)
 
 
 ## Skills & Tools
@@ -147,6 +147,7 @@ Open-source network-scanning and infrastructure-intelligence platform with asset
 
 
 - [**CRTP — Certified Red Team Professional**](https://www.credential.net/801ee1b8-a2d1-410d-bd9b-545277e9fd33) · Altered Security
+- [**Sliver C2: Pentesting and Evasion**](https://www.hacksmarter.org/completion/081ac2f66d773a65) · Hack Smarter · Kairos Sec
 - [**CAPen — Certified AppSec Pentester**](https://www.linkedin.com/in/jawad47/details/certifications/1733341564424/single-media-viewer/?profileId=ACoAADBNba4BA2R5BhLSMl20Y-4BbT13nzrWVis) · The SecOps Group
 - [**Certified API Security Analyst**](https://www.credly.com/badges/f579629d-b736-493b-a3b9-e84fbf28e55b/linked_in_profile) · APIsec University
 - [**eCPPT — Certified Professional Penetration Tester**](https://certs.ine.com/f29a0d90-e623-4786-90f4-a1ea03f451de) · INE Security
@@ -195,8 +196,8 @@ Also completed a **GED (2022)** and **GCE O Level (2019)**.
 I'm open to conversations about offensive-security roles, penetration-testing engagements, security consultation, research collaboration, and new projects.
 
 
-- ✉️ [Send me a message](https://jawadmahdi.vercel.app/#contact)
+- ✉️ [Send me a message](https://jawadmahdi.com/#contact)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jawad47/)
-- 🌐 [Portfolio](https://jawadmahdi.vercel.app/)
-- 📝 [Blog](https://jawadmahdi.vercel.app/blog/index.html) · [Medium](https://medium.com/@jawadmahdi/)
-- 📄 [Resume](https://jawadmahdi.vercel.app/assets/resume/JawadMahdi_Resume2026.pdf)
+- 🌐 [Portfolio](https://jawadmahdi.com/)
+- 📝 [Blog](https://jawadmahdi.com/blog/index.html) · [Medium](https://medium.com/@jawadmahdi/)
+- 📄 [Resume](https://jawadmahdi.com/assets/resume/JawadMahdi_Resume2026.pdf)
