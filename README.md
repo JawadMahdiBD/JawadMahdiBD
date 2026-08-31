@@ -66,69 +66,61 @@ My work includes identifying and reporting security flaws affecting high-profile
 - Collaborated with security teams and platform triagers to validate findings and support remediation.
 
 
-## Featured Projects
+## Real Projects
 
 
-### EntityLens — Evidence & Security Research Workspace
+### [EntityLens — Evidence & Security Research Workspace](https://jawadmahdi.com/projects/entitylens.html)
 
 
-Local-first, case-oriented OSINT workspace developed as an extension to an Electron desktop application. It supports structured evidence management, high-volume analysis, interactive visualization, resumable background workflows, evidence reporting, and permission-aware AI research through read-only MCP integrations.
+A private research workspace that organizes authorized information into evidence people can search, review, visualize, and export safely.
 
 
-`TypeScript` `React` `Electron` `Node.js` `MCP` `Local-First` `OSINT` `AI Integration`
+`TypeScript` `React` `Electron` `Node.js` `MCP`
 
 
-[View portfolio details →](https://jawadmahdi.com/#projects)
+### [Nuclei-Forge — Controlled Security Scanning Platform](https://jawadmahdi.com/#work)
 
 
-### [Nuclei-Forge — Full-Stack Security Scanning Platform](https://github.com/JawadMahdiBD/Nuclei-Forge)
+A controlled platform for scheduling approved security checks, managing execution, and organizing findings for review.
 
 
-Open-source, Dockerized ProjectDiscovery Nuclei platform for private-template execution, managed targets and findings, queued and scheduled scans, JWT authentication, RBAC, user administration, audit logging, and operational safeguards.
-
-
-`Nuclei` `Docker` `MongoDB` `JWT` `RBAC` `Job Scheduling`
-
-
-[View source code →](https://github.com/JawadMahdiBD/Nuclei-Forge)
+`Nuclei` `Docker` `MongoDB` `JWT` `RBAC`
 
 
 ### [ScanOps — Network Security Operations Platform](https://scanops.codefortify.cloud/)
 
 
-Open-source network-scanning and infrastructure-intelligence platform with asset management, controlled scan requests, queueing, scheduling, live execution monitoring, historical findings, reporting, and role-aware administration.
+A platform that turns network-security checks into trackable work, reports, schedules, and follow-up actions.
 
 
-`Django` `Network Security` `Scheduling` `Reporting` `RBAC`
+`Django` `Network Security` `Scheduling` `Reporting`
 
 
-[Open live project →](https://scanops.codefortify.cloud/)
+### [Security Automation Toolkit](https://github.com/JawadMahdiBD/scripts)
 
 
-### More Security Projects
+Reusable command-line tools that reduce repetitive security-research work and make common workflows easier to repeat.
 
 
-- **[Credential Breach Monitoring System](https://jawadmahdi.com/#projects)** — Full-stack domain and subdomain credential-leak monitoring with breach APIs, Elasticsearch analysis, and automated reporting.
-  `Django` `PostgreSQL` `Elasticsearch` `Python` `REST API`
+`Python` `Bash` `OSINT` `Workflow Automation`
 
 
-- **[Simulated Network Penetration Test](https://jawadmahdi.com/#projects)** — Enterprise lab assessment covering reconnaissance, exploitation, privilege escalation, vulnerability assessment, and CVSS-scored reporting.
-  `VMware` `Kali Linux` `Metasploit` `Nmap` `OpenVAS` `EternalBlue`
+### Additional Projects
 
 
-- **[TRM Framework Audit](https://jawadmahdi.com/#projects)** — Governance, technology-risk, operational-control, third-party security, and supply-chain assessment mapped to the Malaysia TRM framework and NIST CSF.
-  `NIST CSF` `GRC` `Compliance` `Risk Assessment` `Vendor Security`
+- **[MJZ Autonomous Pentest Agent](https://jawadmahdi.com/#work)** — An AI-assisted testing workspace that coordinates authorized assessments and preserves clear evidence from discovery through reporting.<br>
+  `Codex / OpenCode` `Burp Suite MCP` `Docker` `Nuclei`
 
 
-- **[Security Automation Toolkit](https://github.com/JawadMahdiBD/scripts)** — Open-source tools for authorized reconnaissance, payload generation, credential-log analysis, and vulnerability scanning.  
-  `Python` `Bash` `C++` `Gemini AI` `Nuclei` `Katana` `OSINT`
+- **[Credential Breach Monitoring](https://jawadmahdi.com/#work)** — A system for monitoring and analyzing exposed account information so security teams can investigate risk.<br>
+  `Django` `Elasticsearch`
 
 
-- **[Confidential Penetration Testing Projects](https://jawadmahdi.com/#projects)** — NDA-protected enterprise and government engagements spanning web applications, APIs, networks, and cloud environments.
-  `Burp Suite` `Metasploit` `API Security` `Network Security`
+- **[Confidential Security Assessments](https://jawadmahdi.com/#work)** — Selected authorized work remains private under confidentiality obligations.<br>
+  `NDA Protected`
 
 
-[View the complete project showcase →](https://jawadmahdi.com/#projects)
+[View the complete project showcase →](https://jawadmahdi.com/#work)
 
 
 ## Skills & Tools
