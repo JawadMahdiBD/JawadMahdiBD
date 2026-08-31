@@ -1,195 +1,155 @@
 <h1 align="center">Hi, I'm Jawad Mahdi 👋</h1>
 
-
 <p align="center">
-  <strong>Offensive Cyber Security Specialist · Penetration Tester · Red Teamer</strong>
+  <strong>Offensive Security Researcher · Penetration Tester · Red Teamer</strong>
 </p>
 
-
 <p align="center">
-  4x National CTF Champion (Team) · Recognized by the Pentagon and Fortune 500 programs
+  National team CTF champion · Selected public acknowledgements through authorized security programs
 </p>
-
 
 <p align="center">
   <a href="https://jawadmahdi.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/jawad47/">LinkedIn</a> ·
   <a href="https://jawadmahdi.com/#contact">Message</a> ·
   <a href="https://medium.com/@jawadmahdi/">Medium</a> ·
-  <a href="https://jawadmahdi.com/assets/resume/JawadMahdi_Resume2026.pdf">Resume</a>
+  <a href="https://jawadmahdi.com/assets/resume/JawadMahdi_Resume2026.pdf">Résumé</a>
 </p>
-
 
 ---
 
-
 ## About Me
 
+I'm an offensive security researcher and penetration tester with 3+ years of hands-on experience across web applications, APIs, mobile applications, networks, Active Directory, vulnerability assessment, and red-team operations.
 
-I'm a certified cybersecurity researcher specializing in penetration testing, red teaming, vulnerability assessment, and security engineering. I have 3+ years of hands-on offensive security experience through Synack Red Team, HackerOne, Bugcrowd, and a penetration-testing internship at Disclosify Limited.
+My work combines offensive-security testing, research, automation, and engineering. I turn validated weaknesses into reproducible evidence, proportionate risk context, and remediation guidance that security leaders and engineering teams can act on.
 
-
-My work includes identifying and reporting security flaws affecting high-profile programs such as the U.S. Department of Defense, Apple, and Cambridge University. I also build security automation, vulnerability-scanning platforms, and local-first research tooling.
-
-
-- 🔐 **3+ years** of offensive security experience
-- 🏆 **4x National CTF Champion** as part of a team
-- 🛡️ **10+ Hall of Fame** acknowledgements
-- 🎓 **Bachelor of Computer Science (Hons)** — CGPA 3.69
+- 🔐 **3+ years** in offensive security
+- 🏆 National team CTF champion with documented international and solo national results
+- 🛡️ Selected public acknowledgements from authorized vulnerability research
+- 📜 **11 professional credentials**
+- 🎓 **BSc (Hons) Computer Science** — CGPA 3.69
 - 🌍 Based in **Bangladesh**
-
 
 ## Experience
 
+### Microsoft 365 & Security Administrator
 
-### Penetration Tester Intern — Disclosify Limited
+`Confidential maritime company · Malaysia` · `Jan–Dec 2025` · `One-year contract`
 
+- Administered Microsoft 365, Microsoft Entra ID, and Microsoft Defender with tenant-wide privileges.
+- Maintained identity, access, security configuration, and day-to-day platform administration.
 
-`Dhaka, Bangladesh` · `Apr 2025 – Aug 2025`
+### Confidential Security Researcher
 
+`Confidential security environment` · `2021–2023`
 
-- Performed end-to-end web application and API penetration testing.
-- Built security automation for reconnaissance, payload generation, credential-log analysis, and vulnerability scanning.
-- Validated SQL injection, cross-site scripting, and security misconfigurations in controlled environments.
-- Produced professional reports with CVSS scoring, reproduction steps, and remediation guidance.
+- Supported authorized security research under strict confidentiality obligations.
+- The organization, mission, systems, scope, methods, findings, and outcomes remain withheld.
 
+### Bug Bounty Researcher
 
-### Bug Bounty Hunter — Synack Red Team, HackerOne & Bugcrowd
+`Synack Red Team · HackerOne · Bugcrowd` · `2020–2024` · `Independent`
 
-
-`Freelance` · `Remote` · `Jan 2020 – Jan 2024`
-
-
-- Assessed web applications, APIs, mobile applications, and network infrastructure.
-- Discovered and reported SQL injection, remote code execution, cross-site scripting, and IDOR vulnerabilities.
-- Earned rewards from programs including Apple, Dell, Coca-Cola, Cambridge University, and the U.S. Department of Defense.
-- Collaborated with security teams and platform triagers to validate findings and support remediation.
-
+- Assessed web applications, APIs, mobile applications, and network infrastructure through authorized programs.
+- Documented reproducible findings and worked with security teams through program validation and remediation.
+- Selected publicly acknowledged outcomes include the U.S. Department of Defense, Apple, the University of Cambridge, The Coca-Cola Company, and Dell Technologies.
 
 ## Real Projects
 
-
 ### [EntityLens — Evidence & Security Research Workspace](https://jawadmahdi.com/projects/entitylens.html)
-
 
 A private research workspace that organizes authorized information into evidence people can search, review, visualize, and export safely.
 
-
 `TypeScript` `React` `Electron` `Node.js` `MCP`
-
 
 ### [Nuclei-Forge — Controlled Security Scanning Platform](https://jawadmahdi.com/#work)
 
-
 A controlled platform for scheduling approved security checks, managing execution, and organizing findings for review.
-
 
 `Nuclei` `Docker` `MongoDB` `JWT` `RBAC`
 
-
 ### [ScanOps — Network Security Operations Platform](https://scanops.codefortify.cloud/)
-
 
 A platform that turns network-security checks into trackable work, reports, schedules, and follow-up actions.
 
-
 `Django` `Network Security` `Scheduling` `Reporting`
-
 
 ### [Security Automation Toolkit](https://github.com/JawadMahdiBD/scripts)
 
-
 Reusable command-line tools that reduce repetitive security-research work and make common workflows easier to repeat.
-
 
 `Python` `Bash` `OSINT` `Workflow Automation`
 
-
 ### Additional Projects
 
-
-- **[MJZ Autonomous Pentest Agent](https://jawadmahdi.com/#work)** — An AI-assisted testing workspace that coordinates authorized assessments and preserves clear evidence from discovery through reporting.<br>
+- **[MJZ Autonomous Pentest Agent](https://jawadmahdi.com/#projectArchive)** — An AI-assisted testing workspace that coordinates authorized assessments and preserves clear evidence from discovery through reporting.<br>
   `Codex / OpenCode` `Burp Suite MCP` `Docker` `Nuclei`
 
-
-- **[Credential Breach Monitoring](https://jawadmahdi.com/#work)** — A system for monitoring and analyzing exposed account information so security teams can investigate risk.<br>
+- **[Credential Breach Monitoring](https://jawadmahdi.com/#projectArchive)** — A system for monitoring and analyzing exposed account information so security teams can investigate risk.<br>
   `Django` `Elasticsearch`
 
-
-- **[Confidential Security Assessments](https://jawadmahdi.com/#work)** — Selected authorized work remains private under confidentiality obligations.<br>
+- **[Confidential Security Assessments](https://jawadmahdi.com/#projectArchive)** — Selected authorized work remains private under confidentiality obligations.<br>
   `NDA Protected`
-
 
 [View the complete project showcase →](https://jawadmahdi.com/#work)
 
-
 ## Skills & Tools
 
-
-- **Penetration Testing:** Web Applications, APIs, Mobile Applications, Network Infrastructure, Vulnerability Assessment, Red Teaming
-- **Security Tools:** Burp Suite Pro, Metasploit, Nmap, Wireshark, Nuclei, Katana, OpenVAS, Kali Linux, msfvenom
-- **Programming:** Python, Bash, Java, C, C++, TypeScript
-- **Application & AI Engineering:** React, Electron, Node.js, MCP, Local-First Persistence, AI Integration
-- **Databases:** MongoDB, Elasticsearch, MySQL, PostgreSQL
-- **Frameworks & Methodology:** OWASP Top 10, CVSS, NIST CSF, MITRE ATT&CK
-- **Other Expertise:** Pentest Reporting, OSINT, Threat Modeling, GRC, Compliance Auditing, Active Directory, Cloud Security, Risk Assessment
-
+- **Penetration Testing:** Web applications, APIs, mobile applications, networks, Active Directory, vulnerability assessment, red teaming
+- **Security Services:** Web and API testing, network testing, web source-code review, mobile testing, AI red teaming, security-tool development, controlled proof-of-concept development
+- **Security Tools:** Burp Suite Pro, Nmap, Metasploit, Nuclei, Katana, Wireshark, OpenVAS, Kali Linux
+- **Engineering:** Python, Bash, C/C++, TypeScript, React, Electron, Node.js, Django, Docker
+- **Data Systems:** MongoDB, PostgreSQL, Elasticsearch
+- **Methods & Frameworks:** MCP, OWASP Top 10, MITRE ATT&CK, CVSS, OSINT
 
 ## Certifications
 
-
-- [**CRTP — Certified Red Team Professional**](https://www.credential.net/801ee1b8-a2d1-410d-bd9b-545277e9fd33) · Altered Security
+- [**Certified Red Team Professional**](https://www.credential.net/801ee1b8-a2d1-410d-bd9b-545277e9fd33) · CRTP · Altered Security
 - [**Sliver C2: Pentesting and Evasion**](https://www.hacksmarter.org/completion/081ac2f66d773a65) · Hack Smarter · Kairos Sec
-- [**CAPen — Certified AppSec Pentester**](https://www.linkedin.com/in/jawad47/details/certifications/1733341564424/single-media-viewer/?profileId=ACoAADBNba4BA2R5BhLSMl20Y-4BbT13nzrWVis) · The SecOps Group
-- [**Certified API Security Analyst**](https://www.credly.com/badges/f579629d-b736-493b-a3b9-e84fbf28e55b/linked_in_profile) · APIsec University
-- [**eCPPT — Certified Professional Penetration Tester**](https://certs.ine.com/f29a0d90-e623-4786-90f4-a1ea03f451de) · INE Security
-- [**eWPTX — Web Application Penetration Tester eXtreme**](https://certs.ine.com/a0c91dbf-115f-4b54-91a3-c0da24fb4424) · INE Security
-- [**CSCRB — Certified Security Code Review Beginners**](https://courses.redteamleaders.com/exam-completion/e028f42886691d8a) · Red Team Leaders
-- [**CCEP — Certified Cybersecurity Educator Professional**](https://courses.redteamleaders.com/exam-completion/a18083a00dcdb052) · Red Team Leaders
-- [**Google Cybersecurity Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/TJ4JBLPJKGXS) · Google
-
+- [**Web Application Penetration Tester eXtreme**](https://certs.ine.com/a0c91dbf-115f-4b54-91a3-c0da24fb4424) · eWPTX · INE Security
+- [**Certified Professional Penetration Tester**](https://certs.ine.com/f29a0d90-e623-4786-90f4-a1ea03f451de) · eCPPT · INE Security
+- [**Certified AppSec Pentester**](https://jawadmahdi.com/assets/images/certificates/cert-capen.jpg) · CAPen · The SecOps Group
+- [**Certified API Security Analyst**](https://www.credly.com/badges/f579629d-b736-493b-a3b9-e84fbf28e55b/linked_in_profile) · CASA · APIsec University
+- [**Certified Security Code Review Beginners**](https://courses.redteamleaders.com/exam-completion/e028f42886691d8a) · CSCRB · Red Team Leaders
+- [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/TJ4JBLPJKGXS) · Google · Coursera
+- [**Certified Cybersecurity Educator Professional**](https://courses.redteamleaders.com/exam-completion/a18083a00dcdb052) · CCEP · Red Team Leaders
+- [**Basic Python for Analytics Professional**](https://jawadmahdi.com/assets/images/certificates/cert-basic-python.png) · CADS · 2025
+- [**Java Foundations**](https://jawadmahdi.com/assets/images/certificates/cert-java-foundations.png) · Oracle Academy · 2023
 
 ## Achievements
 
+- 🛡️ **Selected public acknowledgements:** eligible reports were reviewed and accepted through authorized programs operated by the U.S. Department of Defense, Apple, the University of Cambridge, The Coca-Cola Company, and Dell Technologies.
+- 🏆 **National CTF record:** four national team championships and four national runner-up finishes.
+- 🌐 **Cyber Apocalypse CTF 2021:** team placed 94th of 4,740 teams, a top-2% international result.
+- 🇲🇾 **Curtin Malaysia CTF 2023:** placed 13th nationally among university participants while competing solo.
 
-- 🛡️ **Bug Bounty Hall of Fame:** acknowledged by Pentagon, Apple, Cambridge University, Coca-Cola, Dell, and other programs.
-- 🏆 **4x National CTF Champion (Team):** National CyberDrill 2022, SUST SWE TECHNOVENT CTF 2023, Inter-University Cyber Drill 2021, and Cyber Security Challenge 2018.
-- 🥈 **Runner-up:** CyberSummit Hackathon 2021, National Cyber Drill 2020, Cyber Security Challenge 2019, and JU CTF 2019.
-- 🌐 **Global rankings:** 94th among 4,500+ teams in Cyber Apocalypse CTF 2021; top 15 at Curtin Malaysia CTF 2023.
-- 🎓 **Dean's List:** semester GPA as high as 4.00.
+> Recognition records describe authorized vulnerability-disclosure outcomes—not employment, client work, sponsorship, or endorsement.
 
+[Review the documented CTF record →](https://jawadmahdi.com/ctf.html) · [Review public acknowledgements →](https://jawadmahdi.com/#recognition)
 
 ## Education
 
+### BSc (Hons) Computer Science
 
-### Bachelor of Computer Science (Hons)
+**Taylor's University / University of Bristol** · `2023–2026`
 
-
-**Taylor's University / University of Bristol** · `Feb 2023 – Feb 2026`
-
-
-- Dual Certificate Award, Subang Jaya, Malaysia
 - CGPA: **3.69**
-- 30% scholarship recipient
 
+## Writeups & Research
 
-Also completed a **GED (2022)** and **GCE O Level (2019)**.
+- [**Using Burp Suite MCP with AI to Assess a Supabase Application**](https://medium.com/@jawadmahdi/how-we-used-burpsuite-mcp-with-antigravity-ai-to-exploit-a-supabase-based-application-6473b42f4e41) — AI-assisted application testing, controlled validation, and repeatable documentation.
+- [**Chaining OSINT, IDOR, and RCE**](https://medium.com/@jawadmahdi/chaining-osint-idor-and-rce-a-penetration-testing-case-study-69f701af89c4) — How multiple weaknesses combined into a complete exploit chain.
+- [**A Weird Bug That Leaked PII**](https://medium.com/@jawadmahdi/a-weird-bug-that-leaked-pii-9e2e91a8b8c8) — Reproducing and explaining an unusual personal-data exposure.
 
-
-## Research Interests
-
-
-`Offensive Security Automation` `AI-Driven Vulnerability Detection` `Web Application Security` `Red Team Operations` `Credential Breach Analysis` `Adversarial Machine Learning` `Cloud Security` `Threat Intelligence` `OSINT`
-
+[View all six research articles →](https://jawadmahdi.com/blog/index.html)
 
 ## Let's Connect
 
-
-I'm open to conversations about offensive-security roles, penetration-testing engagements, security consultation, research collaboration, and new projects.
-
+I'm open to conversations about offensive-security roles, authorized assessments, security consultation, research collaboration, and new projects.
 
 - ✉️ [Send me a message](https://jawadmahdi.com/#contact)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jawad47/)
 - 🌐 [Portfolio](https://jawadmahdi.com/)
 - 📝 [Blog](https://jawadmahdi.com/blog/index.html) · [Medium](https://medium.com/@jawadmahdi/)
-- 📄 [Resume](https://jawadmahdi.com/assets/resume/JawadMahdi_Resume2026.pdf)
+- 📄 [Résumé](https://jawadmahdi.com/assets/resume/JawadMahdi_Resume2026.pdf)
