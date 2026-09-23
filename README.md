@@ -24,12 +24,12 @@ I'm an offensive security researcher and penetration tester with 3+ years of han
 
 My work combines offensive-security testing, research, automation, and engineering. I turn validated weaknesses into reproducible evidence, proportionate risk context, and remediation guidance that security leaders and engineering teams can act on.
 
-- 🔐 **3+ years** in offensive security
-- 🏆 National team CTF champion with documented international and solo national results
-- 🛡️ Selected public acknowledgements from authorized vulnerability research
-- 📜 **11 professional credentials**
-- 🎓 **BSc (Hons) Computer Science** — CGPA 3.69
-- 🌍 Based in **Bangladesh**
+-  **3+ years** in offensive security
+-  National team CTF champion with documented international and solo national results
+-  Selected public acknowledgements from authorized vulnerability research
+-  **11 professional credentials**
+-  **BSc (Hons) Computer Science** — CGPA 3.69
+-  Based in **Bangladesh**
 
 ## Experience
 
