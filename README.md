@@ -119,10 +119,10 @@ Reusable command-line tools that reduce repetitive security-research work and ma
 
 ## Achievements
 
-- 🛡️ **Selected public acknowledgements:** eligible reports were reviewed and accepted through authorized programs operated by the U.S. Department of Defense, Apple, the University of Cambridge, The Coca-Cola Company, and Dell Technologies.
-- 🏆 **National CTF record:** four national team championships and four national runner-up finishes.
-- 🌐 **Cyber Apocalypse CTF 2021:** team placed 94th of 4,740 teams, a top-2% international result.
-- 🇲🇾 **Curtin Malaysia CTF 2023:** placed 13th nationally among university participants while competing solo.
+-  **Selected public acknowledgements:** eligible reports were reviewed and accepted through authorized programs operated by the U.S. Department of Defense, Apple, the University of Cambridge, The Coca-Cola Company, and Dell Technologies.
+-  **National CTF record:** four national team championships and four national runner-up finishes.
+-  **Cyber Apocalypse CTF 2021:** team placed 94th of 4,740 teams, a top-2% international result.
+-  **Curtin Malaysia CTF 2023:** placed 13th nationally among university participants while competing solo.
 
 > Recognition records describe authorized vulnerability-disclosure outcomes—not employment, client work, sponsorship, or endorsement.
 
