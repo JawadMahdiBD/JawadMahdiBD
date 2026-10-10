@@ -42,7 +42,7 @@ My work combines offensive-security testing, research, automation, and engineeri
 
 ### Microsoft 365 & Security Administrator (Part-time Contract)
 
-`Confidential maritime company · Malaysia` · `Jan–Dec 2025` · `Remote`
+`Confidential maritime company · Malaysia` · `2025` · `Remote · Part-time`
 
 - Administered Microsoft 365, Microsoft Entra ID, and Microsoft Defender with tenant-wide privileges.
 - Maintained identity, access, security configuration, and day-to-day platform administration.
