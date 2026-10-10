@@ -28,24 +28,24 @@ My work combines offensive-security testing, research, automation, and engineeri
 -  National team CTF champion with documented international and solo national results
 -  Selected public acknowledgements from authorized vulnerability research
 -  **11 professional credentials**
--  **BSc (Hons) Computer Science** — CGPA 3.69
+-  **BSc (Hons) Computer Science · Cyber Security** — First Class (dual award) · CGPA 3.69
 -  Based in **Bangladesh**
 
 ## Experience
 
-### Microsoft 365 & Security Administrator
-
-`Confidential maritime company · Malaysia` · `Jan–Dec 2025` · `One-year contract`
-
-- Administered Microsoft 365, Microsoft Entra ID, and Microsoft Defender with tenant-wide privileges.
-- Maintained identity, access, security configuration, and day-to-day platform administration.
-
 ### Confidential Security Researcher
 
-`Confidential security environment` · `2021–2023`
+`Confidential security environment` · `2024–2026` · `Remote · Part-time`
 
 - Supported authorized security research under strict confidentiality obligations.
 - The organization, mission, systems, scope, methods, findings, and outcomes remain withheld.
+
+### Microsoft 365 & Security Administrator (Part-time Contract)
+
+`Confidential maritime company · Malaysia` · `Jan–Dec 2025` · `Remote`
+
+- Administered Microsoft 365, Microsoft Entra ID, and Microsoft Defender with tenant-wide privileges.
+- Maintained identity, access, security configuration, and day-to-day platform administration.
 
 ### Bug Bounty Researcher
 
@@ -130,11 +130,12 @@ Reusable command-line tools that reduce repetitive security-research work and ma
 
 ## Education
 
-### BSc (Hons) Computer Science
+### BSc (Hons) Computer Science · Cyber Security specialisation
 
-**Taylor's University / University of Bristol** · `2023–2026`
+**Taylor's University / University of the West of England, Bristol (dual award)** · `2023–2026`
 
-- CGPA: **3.69**
+- **First Class Honours** (both awards)
+- CGPA: **3.69** · Four Dean's List awards
 
 ## Writeups & Research
 
